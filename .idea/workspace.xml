@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca7364d6-df8e-43fc-8d90-fe4faa4d3d38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GitStashingProblem/GitStashingProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/SolarSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystemBatch12/SolarSystemBatch12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFrameworkBatch12/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFrameworkBatch12/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFrameworkBatch12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFrameworkBatch12/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFrameworkBatch12/src/test/java/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFrameworkBatch12/src/test/java/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFrameworkBatch12/src/test/resources/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFrameworkBatch12/src/test/resources/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFrameworkBatch12/target/test-classes/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFrameworkBatch12/target/test-classes/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFrameworkBatch12/target/test-classes/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFrameworkBatch12/target/test-classes/utils/CommonMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch12.1/com/syntax/class10/ActionsClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch12.1/com/syntax/review05/HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch12.1/com/syntax/review05/HW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/com/syntax" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/com/syntax" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="26SEVZjmixTN3wATbQmH5zbyCvb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/commons-io-2.8.0.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.HW3">
+    <configuration name="AmazonDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.AmazonDropDown" />
+      <module name="SeleniumBatch12.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckboxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.CheckboxDemo" />
+      <module name="SeleniumBatch12.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review05.HW" />
+      <module name="SeleniumBatch12.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.review05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.HW3" />
+      <module name="SeleniumBatch12.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleWindowHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class07.SimpleWindowHandling" />
+      <module name="SeleniumBatch12.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW3" />
+        <item itemvalue="Application.CheckboxDemo" />
+        <item itemvalue="Application.AmazonDropDown" />
+        <item itemvalue="Application.HW" />
+        <item itemvalue="Application.SimpleWindowHandling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7364d6-df8e-43fc-8d90-fe4faa4d3d38" name="Changes" comment="" />
+      <created>1647408628675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647408628675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
